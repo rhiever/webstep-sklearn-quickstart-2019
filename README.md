@@ -30,9 +30,8 @@ The 2-part tutorial will be held on Saturday and Sunday, 19-20 October, 2019.
 Obtaining the Tutorial Material
 --------------------------------
 
-**Please wait on downloading the tutorial material until an announcement it sent out about it.
-The tutorial material may have small changes made to it leading up to the workshop and want to
-ensure that you have the latest version of the tutorial material.**
+**Note: The tutorial material may have small changes made to it leading up to the
+workshop. Please be prepared to download the latest notebooks a day before the workshop.**
 
 If you have a GitHub account, it is probably most convenient if you clone or
 fork the GitHub repository. You can clone the repository by running:
