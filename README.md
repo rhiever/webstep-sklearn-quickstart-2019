@@ -33,7 +33,7 @@ If you have a GitHub account, it is probably most convenient if you clone or
 fork the GitHub repository. You can clone the repository by running:
 
 ```bash
-git clone https://github.com/amueller/scipy-2018-sklearn.git
+git clone https://github.com/rhiever/webstep-sklearn-quickstart-2019.git
 ```
 
  If you are not familiar with git or don’t have an
