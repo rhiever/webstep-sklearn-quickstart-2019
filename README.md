@@ -1,7 +1,7 @@
 Webstep 2019 Scikit-learn Tutorial
 ================================
 
-This tutorial is intended for developers, data analysts, and related technical workers who are familiar with the Python programming language and want to learn the basics of Machine Learning with scikit-learn. By the end of this tutorial, you will be equipped with the core skills required to work with data and properly build Machine Learning models for real-world problems.
+This tutorial is intended for developers, data analysts, and related technical developers who are familiar with the Python programming language and want to learn the basics of Machine Learning with scikit-learn. By the end of this tutorial, you will be equipped with the core skills required to work with data and properly build Machine Learning models for real-world problems.
 
 Based on the [SciPy 2018 tutorial](https://github.com/amueller/scipy-2018-sklearn) by [Kyle Kastner](https://kastnerkyle.github.io/), [Sebastian Raschka](http://sebastianraschka.com), [Andreas Mueller](http://amueller.github.io), and [others](https://github.com/amueller/scipy-2018-sklearn/graphs/contributors).
 
@@ -22,8 +22,8 @@ parts 13 to 23 will be presented in the day 2 session.
 
 The 2-part tutorial will be held on Saturday and Sunday, 19-20 October, 2019.
 
-- Parts 1 to 12: 09.00 - 16.00
-- Parts 13 to 23: 09.00 - 15.00
+- Parts 1 to 12: 19 October, 09.00 - 16.00
+- Parts 13 to 23: 20 October, 09.00 - 15.00
 
 
 
@@ -31,7 +31,8 @@ Obtaining the Tutorial Material
 --------------------------------
 
 **Please wait on downloading the tutorial material until an announcement it sent out about it.
-The tutorial material will have small changes made to it leading up to the workshop.**
+The tutorial material may have small changes made to it leading up to the workshop and want to
+ensure that you have the latest version of the tutorial material.**
 
 If you have a GitHub account, it is probably most convenient if you clone or
 fork the GitHub repository. You can clone the repository by running:
@@ -71,6 +72,7 @@ This tutorial will require recent installations of
 - [pandas](http://pandas.pydata.org)
 - [pillow](https://python-pillow.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [TPOT](https://pypi.python.org/pypi/TPOT/)
 - [IPython](http://ipython.readthedocs.org/en/stable/)
 - [Jupyter Notebook](http://jupyter.org)
 
