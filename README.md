@@ -77,12 +77,12 @@ This tutorial will require recent installations of
 - [Jupyter Notebook](http://jupyter.org)
 
 
-The last one is important and you should be able to type:
+The Jupyter Notebook installation is important and you should be able to type:
 
     jupyter notebook
 
 in your terminal window and see the notebook panel load in your web browser.
-Try opening and running a notebook from the material to see check that it works. Alternatively you can use Jupyter lab.
+Try opening and running a notebook from the material to see check that it works. Alternatively you can use Jupyter Lab.
 
 For users who do not yet have the required packages installed, a relatively
 painless way to install all the requirements is to use a Python distribution
@@ -91,9 +91,9 @@ the most relevant Python packages for science, math, engineering, and
 data analysis; Anaconda can be downloaded and installed for free
 including commercial use and redistribution.
 The code examples in this tutorial should be compatible to Python 2.7,
-Python 3.4-3.6.
+Python 3.4-3.7.
 
-After obtaining the material, we **strongly recommend** you to open and execute
+After obtaining the tutorial material, we **strongly recommend** you to open and execute
 the Jupyter Notebook `jupter notebook check_env.ipynb` that is located at the
 top level of this repository. Inside the repository, you can open the notebook
 by executing
@@ -113,7 +113,12 @@ executed code cell will produce an output message as shown below:
 
 ![](images/check_env-2.png)
 
-Although not required, we also recommend you to update the scikit-learn the latest release version to ensure best compatibility with the teaching material. Please upgrade already installed packages by executing
+If any of the installations fail, you can install the packages using either `pip` or `conda`:
+
+- `pip install [package-name]`  
+- or `conda install [package-name]`
+
+Although not required, we also recommend that you update the scikit-learn the latest release version to ensure best compatibility with the teaching material. Please upgrade already installed packages by executing:
 
 - `pip install --no-deps --upgrade [package-name]`  
 - or `conda update [package-name]`
