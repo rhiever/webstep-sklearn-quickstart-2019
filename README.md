@@ -165,7 +165,7 @@ Day 1 Session
 - 09 The scikit-learn estimator interface [[view](notebooks/09.Review_of_Scikit-learn_API.ipynb)]
 - 10 Preparing a real-world dataset (titanic) [[view](notebooks/10.Case_Study-Titanic_Survival.ipynb)]
 - 11 Working with text data via the bag-of-words model [[view](notebooks/11.Text_Feature_Extraction.ipynb)]
-- 12 Application: IMDb Movie Review Sentiment Analysis [[view](notebooks/12.Case_Study-SMS_Spam_Detection.ipynb)]
+- 12 Application: SMS spam classification [[view](notebooks/12.Case_Study-SMS_Spam_Detection.ipynb)]
 
 Day 2 Session
 -----------------
