@@ -1,25 +1,27 @@
-SciPy 2018 Scikit-learn Tutorial
+Webstep 2019 Scikit-learn Tutorial
 ================================
 
+Based on the [SciPy 2018 tutorial](https://github.com/amueller/scipy-2018-sklearn) by [Kyle Kastner](https://kastnerkyle.github.io/), [Sebastian Raschka](http://sebastianraschka.com), [Andreas Mueller](http://amueller.github.io), and [others](https://github.com/amueller/scipy-2018-sklearn/graphs/contributors).
 
 Instructors
 -----------
 
-- [Guillaume Lemaitre](https://glemaitre.github.io/)  [@glemaitre](https://github.com/glemaitre) - Inria, Université Paris-Saclay
-- [Andreas Mueller](http://amuller.github.io) [@amuellerml](https://twitter.com/amuellerml) - Columbia University; [Book: Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
+- [Dr. Randy Olson](http://randalolson.com)  [(@randal_olson)](https://twitter.com/randal_olson) - Lead Data Scientist at [Life Epigenetics](http://lifeegx.com)
 
 ---
 
 
-This repository will contain the teaching material and other info associated with our scikit-learn tutorial
-at [SciPy 2018](http://scipy2018.scipy.org/) held July 9-15 in Austin, Texas.
+This repository will contain the teaching material and other information associated with our scikit-learn tutorial.
 
-Parts 1 to 12 make up the morning session, while
-parts 13 to 23 will be presented in the afternoon (approximately)
+Parts 1 to 12 make up the day 1 session, while
+parts 13 to 23 will be presented in the day 2 session.
 
 ### Schedule:
 
-The 2-part tutorial will be held on Tuesday, July 10, 2018.
+The 2-part tutorial will be held on Saturday and Sunday, 5-6 May, 2017.
+
+- Parts 1 to 12: 09.00 - 16.00
+- Parts 13 to 23: 09.00 - 15.00
 
 
 
@@ -36,7 +38,7 @@ git clone https://github.com/amueller/scipy-2018-sklearn.git
 
  If you are not familiar with git or don’t have an
 GitHub account, you can download the repository as a .zip file by heading over
-to the GitHub repository (https://github.com/amueller/scipy-2018-sklearn) in
+to the GitHub repository (https://github.com/rhiever/webstep-sklearn-quickstart-2019) in
 your browser and click the green “Download” button in the upper right.
 
 ![](images/download-repo.png)
@@ -122,9 +124,8 @@ scikit-learn, which
 includes code that automatically downloads and caches these
 data.
 
-**Because the wireless network
-at conferences can often be spotty, it would be a good idea to download these
-data sets before arriving at the conference.
+**Because wireless network connections can often be spotty, it would be a good idea to download these
+data sets before arriving at the workshop.
 Please run**
 ```bash
 python fetch_data.py
