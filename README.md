@@ -1,6 +1,8 @@
 Webstep 2019 Scikit-learn Tutorial
 ================================
 
+This tutorial is intended for developers, data analysts, and related technical workers who are familiar with the Python programming language and want to learn the basics of Machine Learning with scikit-learn. By the end of this tutorial, you will be equipped with the core skills required to work with data and properly build Machine Learning models for real-world problems.
+
 Based on the [SciPy 2018 tutorial](https://github.com/amueller/scipy-2018-sklearn) by [Kyle Kastner](https://kastnerkyle.github.io/), [Sebastian Raschka](http://sebastianraschka.com), [Andreas Mueller](http://amueller.github.io), and [others](https://github.com/amueller/scipy-2018-sklearn/graphs/contributors).
 
 Instructors
