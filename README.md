@@ -142,7 +142,7 @@ of your local hard drive.
 Outline
 =======
 
-Morning Session
+Day 1 Session
 ---------------
 
 - 01 Introduction to machine learning with sample applications, Supervised and Unsupervised learning [[view](notebooks/01.Introduction_to_Machine_Learning.ipynb)]
@@ -158,7 +158,7 @@ Morning Session
 - 11 Working with text data via the bag-of-words model [[view](notebooks/11.Text_Feature_Extraction.ipynb)]
 - 12 Application: IMDb Movie Review Sentiment Analysis [[view](notebooks/12.Case_Study-SMS_Spam_Detection.ipynb)]
 
-Afternoon Session
+Day 2 Session
 -----------------
 
 - 13 Cross-Validation [[view](notebooks/13.Cross_Validation.ipynb)]
@@ -171,4 +171,4 @@ Afternoon Session
 - 20 Unsupervised learning: Hierarchical and density-based clustering algorithms [[view](notebooks/20.Unsupervised_learning-Hierarchical_and_density-based_clustering_algorithms.ipynb)]
 - 21 Unsupervised learning: Non-linear dimensionality reduction [[view](notebooks/21.Unsupervised_learning-Non-linear_dimensionality_reduction.ipynb)]
 - 22 Unsupervised learning: Anomaly Detection [[view](notebooks/22.Unsupervised_learning-anomaly_detection.ipynb)]
-- 23 Supervised learning: Out-of-core learning [[view](notebooks/23.Out-of-core_Learning_Large_Scale_Text_Classification.ipynb)]
+- 23 Automated machine learning [[view](notebooks/23.Automated_machine_learning.ipynb)]
