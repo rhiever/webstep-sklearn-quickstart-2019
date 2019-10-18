@@ -3,7 +3,7 @@ for i in incorrect_idx:
 
 # Plot two dimensions
 
-for n, color in enumerate(colors):
+for n in range(3):
     idx = np.where(test_y == n)[0]
     plt.scatter(test_X[idx, 1], test_X[idx, 2],
                 label="Class %s" % str(n))
