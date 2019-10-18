@@ -3,12 +3,10 @@ for i in incorrect_idx:
 
 # Plot two dimensions
 
-colors = ["darkblue", "darkgreen", "gray"]
-
 for n, color in enumerate(colors):
     idx = np.where(test_y == n)[0]
     plt.scatter(test_X[idx, 1], test_X[idx, 2],
-                color=color, label="Class %s" % str(n))
+                label="Class %s" % str(n))
 
 for i, marker in zip(incorrect_idx, ['x', 's', 'v']):
     plt.scatter(test_X[i, 1], test_X[i, 2],
