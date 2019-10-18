@@ -11,6 +11,9 @@ for i in range(10):
     ax = fig.add_subplot(2, 5, 1 + i)
     ax.imshow(kmeans.cluster_centers_[i].reshape((8, 8)),
               cmap=plt.cm.binary)
+
+
+
 from sklearn.manifold import Isomap
 X_iso = Isomap(n_neighbors=10).fit_transform(digits.data)
 
