@@ -22,7 +22,7 @@ parts 13 to 23 will be presented in the day 2 session.
 
 The 2-part tutorial will be held on Saturday and Sunday, 19-20 October, 2019.
 
-- Parts 1 to 12: 19 October, 09.00 - 16.00
+- Parts 1 to 12: 19 October, 09.00 - 17.00
 - Parts 13 to 23: 20 October, 09.00 - 15.00
 
 
