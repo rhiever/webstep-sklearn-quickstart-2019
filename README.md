@@ -35,10 +35,6 @@ Please feel free to use this channel to share answers and ask questions: https:/
 Obtaining the Tutorial Material
 --------------------------------
 
-**Note: The tutorial material may have small changes made to it leading up to the
-workshop. Please be prepared to download the latest notebooks a day before the workshop.
-It is best to use the "git clone" method (below) to download the workshop materials.**
-
 If you have a GitHub account, it is probably most convenient if you clone or
 fork the GitHub repository. You can clone the repository by running:
 
