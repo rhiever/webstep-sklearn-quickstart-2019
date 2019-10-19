@@ -26,6 +26,11 @@ The 2-part tutorial will be held on Saturday and Sunday, 19-20 October, 2019.
 - Parts 13 to 23: 20 October, 09.00 - 15.00
 
 
+### Backchannel:
+
+Please feel free to use this channel to share answers and ask questions: https://etherpad.net/p/webstep-ml-2019
+
+
 
 Obtaining the Tutorial Material
 --------------------------------
