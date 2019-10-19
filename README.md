@@ -26,13 +26,14 @@ The 2-part tutorial will be held on Saturday and Sunday, 19-20 October, 2019.
 - Parts 13 to 23: 20 October, 09.00 - 15.00
 
 
+### Backchannel:
+
+Please feel free to use this channel to share answers and ask questions: https://etherpad.net/p/webstep-ml-2019
+
+
 
 Obtaining the Tutorial Material
 --------------------------------
-
-**Note: The tutorial material may have small changes made to it leading up to the
-workshop. Please be prepared to download the latest notebooks a day before the workshop.
-It is best to use the "git clone" method (below) to download the workshop materials.**
 
 If you have a GitHub account, it is probably most convenient if you clone or
 fork the GitHub repository. You can clone the repository by running:
